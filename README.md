@@ -1,4 +1,4 @@
-# 👋 Xin chào! Tôi là **Khánh**
+# 👋 Xin chào! Tôi là **Lê Gia Khánh**
 📍 Sống tại Hà Nội
 📚 Thích đọc manga & tìm hiểu văn hóa Nhật Bản 
 
@@ -57,9 +57,15 @@ Một website xem phim tự phát triển, vận dụng kiến thức từ **Fro
 ---
 
 ## 🖼️ Giao diện Web (Web Interface)
+<img width="1306" height="606" alt="image" src="https://github.com/user-attachments/assets/c18b5775-b47e-4bbc-9c9f-0398f81540fa" />
+<img width="1301" height="605" alt="image" src="https://github.com/user-attachments/assets/bcd97c28-2c35-4a4b-a5ae-e1d2485e80ab" />
+<img width="1300" height="602" alt="image" src="https://github.com/user-attachments/assets/1fac0eee-cbc8-4a80-b491-69f78ebc5880" />
+<img width="1303" height="606" alt="image" src="https://github.com/user-attachments/assets/2cdddc17-4575-4a5c-bea5-b4207a94931f" />
+<img width="1301" height="604" alt="image" src="https://github.com/user-attachments/assets/6301fed6-ef1b-4842-b2a0-251f5a8d3caf" />
+<img width="1351" height="768" alt="image" src="https://github.com/user-attachments/assets/ba55b8b6-6bbf-4038-85ef-c8b1a34b15d4" />
 <img width="1873" height="856" alt="Ảnh chụp màn hình 2025-11-15 102042" src="https://github.com/user-attachments/assets/81b97156-f6f3-402c-850c-c0058c9e9361" />
 
-**Ví dụ:**
+
 
 
 
