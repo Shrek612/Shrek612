@@ -57,7 +57,6 @@ Một ứng dụng xem phim hoàn chỉnh, mô phỏng các dịch vụ OTT lớ
 ---
 
 ## 🖼️ Hình ảnh Giao diện (Web Interface Showcase)
-*Sử dụng mô tả ngắn để người xem hình dung nhanh:*
 
 | Giao diện | Ảnh minh họa |
 | :--- | :--- |
@@ -82,4 +81,3 @@ Một ứng dụng xem phim hoàn chỉnh, mô phỏng các dịch vụ OTT lớ
 ## 📞 Liên hệ (Contact Me)
 
 * **Email:** `lgiakhanh8@gmail.com`
-* **LinkedIn/GitHub:** *(Nên thêm liên kết đến LinkedIn và GitHub cá nhân để tăng độ tin cậy)*
