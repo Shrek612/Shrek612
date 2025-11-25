@@ -2,6 +2,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=00A8FF&center=true&vCenter=true&width=600&lines=%E3%83%AC%E3%83%BC%E3%83%BB%E3%82%B8%E3%83%A3%E3%83%BB%E3%82%AB%E3%82%A4%E3%83%B3;Full-stack+Web+Developer;Welcome+to+my+GitHub+Profile!" />
 </p>
+
 # 👋 レー・ジャ・カイン - Full-stack Web Developer
 ### 📍 ハノイ、ベトナム | 📧 lgiakhanh8@gmail.com
 
